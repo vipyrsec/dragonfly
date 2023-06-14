@@ -19,13 +19,6 @@ sequenceDiagram
     autonumber
     Alessia->>Mainframe: What are the recent malicious distributions?
     Mainframe->>Alessia: Here are the latest malicious distributions
-```
-
-```mermaid
-sequenceDiagram
-    autonumber
-    Alessia->>Mainframe: What are the recent malicious distributions?
-    Mainframe->>Alessia: Here are the latest malicious distributions
     Alessia->>dragonfly-alerts: PING!
 ```
 
