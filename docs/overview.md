@@ -37,8 +37,8 @@ Every few minutes, the Discord bot will request the latest malicious distributio
 sequenceDiagram
     autonumber
     Bot->>Mainframe: What are the recent malicious distributions?
-    Mainframe->>Bot: Here are the latest malicious distributions
-    Bot->>#dragonfly-alerts: PING!
+    Mainframe->>Bot: Here are the latest malicious distributions!
+    Bot->>dragonfly-alerts: PING!
 ```
 
 ### User confirmation and reporting
