@@ -1,6 +1,6 @@
 # Dragonfly
 
-A combined C2 and malware scanning service focused on the early identification, analysis, and reporting of malicious packages on the Python Package Index.
+A combined C2 and malware scanning service focused on the early identification, analysis, and reporting of malicious packages on the [Python Package Index](https://pypi.org/).
 
 ## Need an overview?
 
